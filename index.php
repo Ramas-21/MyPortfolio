@@ -39,10 +39,10 @@
 			<p>Hello I'm Lawrence, a passionate Fullstack Developer with a love for crafting web applications.</p>
 
 			<div class="social-media">
-				<a href="#"><i class='bx bxl-facebook'></i></a>
-				<a href="#"><i class='bx bxl-twitter'></i></a>
-				<a href="#"><i class='bx bxl-instagram-alt'></i></a>
-				<a href="#"><i class='bx bxl-linkedin'></i></a>
+				<a href="https://www.facebook.com/lawrenzo.ramas.7"><i class='bx bxl-facebook'></i></a>
+				<a href="https://github.com/Ramas-21"><i class='bx bxl-github'></i></a>
+				<a href="https://instagram.com/_lawrence_home?igshid=ZDdkNTZiNTM="><i class='bx bxl-instagram-alt'></i></a>
+				<a href="https://www.linkedin.com/in/lawrence-home-a240b0241"><i class='bx bxl-linkedin'></i></a>
 			</div>
 			<a href="#" class="btn">Download CV</a>
 		</div>
