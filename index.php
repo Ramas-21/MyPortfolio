@@ -14,7 +14,7 @@
 	<!------------header design ----------->
 
 	<header class="header">
-		<a href="#" class="logo">Lawrence</a>
+		<a href="#" class="logo">Portfolio</a>
 
 		<i class='bx bx-menu' id="menu-icon"></i>
 
