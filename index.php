@@ -176,14 +176,14 @@
 
 		<form action="#" method="#">
 			<div class="input-box">
-				<input type="text" name="#" placeholder="Full Name">
-				<input type="email" name="#" placeholder="Email Address">
+				<input type="text" name="name" placeholder="Full Name">
+				<input type="email" name="email" placeholder="Email Address">
 			</div>
 			<div class="input-box">
-				<input type="number" name="#" placeholder="Mobile Number">
-				<input type="text" name="#" placeholder=" Email Subject">
+				<input type="number" name="number" placeholder="Mobile Number">
+				<input type="text" name="subject" placeholder=" Email Subject">
 			</div>
-			<textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+			<textarea name="message" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
 			<input type="submit" name="" value="Send Message" class="btn">
 		</form>
 	</section>
